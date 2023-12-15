@@ -11,7 +11,7 @@ a {
 }
 
 a:hover {
-    color: #d33682 !important;
+    color: #d4bdc9 !important;
     text-decoration: none;
 }
 
@@ -23,5 +23,5 @@ hr {
 }
 
 #MainMenu {visibility: hidden;}
-footer {visibility: hidden;}
-header {visibility: hidden;}
+footer    {visibility: hidden;}
+header    {visibility: hidden;}
