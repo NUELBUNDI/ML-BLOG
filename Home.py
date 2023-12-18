@@ -40,6 +40,7 @@ with col2:
                 
                 ''')
 
+st.divider()
 st.info(        
     """ 
    Select the pages on sidebar  👈left  to start. Let's Begin Our Journey., 
